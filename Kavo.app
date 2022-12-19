@@ -1,5 +1,5 @@
 local Kavo = {}
-local FontTitle = Enum.Font.Gotham
+local FontTitle = Enum.Font.Code
 
 local tween = game:GetService("TweenService")
 local tweeninfo = TweenInfo.new
